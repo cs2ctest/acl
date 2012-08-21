@@ -146,6 +146,7 @@ rm -rf $RPM_BUILD_ROOT
 * Fri Jul 08 2011 Kamil Dudka <kdudka@redhat.com> 2.2.49-9
 - fix typos in setfacl(1) man page (#675451)
 - add function acl_extended_file_nofollow() (#692982)
+- cs2ctest
 
 * Thu Jul 08 2010 Kamil Dudka <kdudka@redhat.com> 2.2.49-8
 - remove dependency of libacl-devel on nfs-utils-lib and openldap
